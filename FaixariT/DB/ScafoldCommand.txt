@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=192.168.10.43,1433;Database=FaixariTHRMS;user id=sa;password=Sql123456_;TrustServerCertificate=true;MultipleActiveResultSets=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DBModels -Context AppDbContext -Tables App_Module,App_Menu,App_SubMenu,Users -Force -NoPluralize -NoOnConfiguring
